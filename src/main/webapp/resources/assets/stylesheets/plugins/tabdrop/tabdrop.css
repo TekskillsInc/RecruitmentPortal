@@ -1,0 +1,22 @@
+/*!
+ * Tab drop for Bootstrap
+ *
+ * Copyright 2012 Stefan Petre
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+.nav-tabs,.nav-pills {
+	position: relative;
+}
+
+
+
+@media (min-width: 320px) and (max-width: 767.98px) {
+       #dynamic_select{
+              margin-left:0px!important;
+       }
+       .custom-resp-btn{
+              margin-left:0px!important; 
+       }
+}
